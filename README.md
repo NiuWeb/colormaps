@@ -1,3 +1,8 @@
+# Create linear colormaps 
+Define a [min,max] interval and a set of colors with a position between 0 and 1 (100%). Map numbers between the [min,max] interval to colors.
+
+--------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
